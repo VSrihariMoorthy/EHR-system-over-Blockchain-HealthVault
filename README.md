@@ -18,6 +18,6 @@ cd ../client
 $ npm install
 $ npm start
 ```
-Curated EHRs are available in this repository - https://github.com/VSrihariMoorthy/EHR-system-over-Blockchain-HealthVault-CuratedEHRs
+EHRs curated to test our system/application are available in this repository - https://github.com/VSrihariMoorthy/EHR-system-over-Blockchain-HealthVault-CuratedEHRs
 
 
