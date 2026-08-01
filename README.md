@@ -10,7 +10,6 @@ The growing digitization of medical information has raised the possibility of me
 
 **Full text (ResearchGate):** https://www.researchgate.net/publication/388129677_Verified_Access_to_EHR_over_Blockchain_and_IPFS_with_Lit_Protocol_Encryption
 
-
 ## Citation Requirement
 
 **Use of this repository, its code, or the accompanying curated EHR dataset, in any research, publication, product, or derivative work, requires citation of the paper below.** This applies to academic papers, technical reports, theses, and any public or commercial use of the system or data.
@@ -29,12 +28,8 @@ The growing digitization of medical information has raised the possibility of me
   keywords={Protocols;MIMICs;Medical services;Blockchains;Encryption;Portals;Blockchain;EHR;Decentralization;IPFS;Lit protocol;Validating Access to EHR},
   doi={10.1109/ICBDS61829.2024.10837546}}
 ```
-
-The curated EHR dataset used to test and validate this system is available in a companion repository: https://github.com/VSrihariMoorthy/EHR-system-over-Blockchain-HealthVault-CuratedEHRs
-
 ---
-
-## About this repo
+## Setup
 
 This box comes with everything you need to start using Truffle to write, compile, test, and deploy smart contracts, and interact with them from a React app.
 
@@ -54,3 +49,5 @@ cd ../client
 $ npm install
 $ npm start
 ```
+
+The curated EHR dataset used to test and validate this system is available in a companion repository: https://github.com/VSrihariMoorthy/EHR-system-over-Blockchain-HealthVault-CuratedEHRs
