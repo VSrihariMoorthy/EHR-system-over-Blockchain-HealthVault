@@ -2,7 +2,9 @@
 
 This repository implements the system described in our paper published at the **2024 IEEE International Conference on Blockchain and Distributed Systems Security (ICBDS)**: *"Verified Access to EHR over Blockchain and IPFS with Lit Protocol Encryption."*
 
-If you use this system, or the curated EHR dataset, in your research, please cite our paper:
+## Citation Requirement
+
+**Use of this repository, its code, or the accompanying curated EHR dataset, in any research, publication, product, or derivative work, requires citation of the paper below.** This applies to academic papers, technical reports, theses, and any public or commercial use of the system or data.
 
 > V. S. Moorthy, K. Saravanan, H. B, S. Saravanan and R. G. J, "Verified Access to EHR over Blockchain and IPFS with Lit Protocol Encryption," 2024 IEEE International Conference on Blockchain and Distributed Systems Security (ICBDS), Pune, India, 2024, pp. 1-7, doi: 10.1109/ICBDS61829.2024.10837546.
 
